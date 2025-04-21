@@ -1,4 +1,4 @@
-# devpulse
+# Devpulse
 
 A collection of TypeScript utility functions for common programming tasks.
 
