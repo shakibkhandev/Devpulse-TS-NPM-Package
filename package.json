@@ -4,7 +4,7 @@
   "description": "A collection of TypeScript utility functions for common programming tasks",
   "main": "dist/index.js",
   "scripts": {
-    "build": "tsc",
+    "build": "tsc -p .",
     "prepare": "npm run build",
     "test": "jest",
     "test:examples": "ts-node src/test.ts"
